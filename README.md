@@ -1,4 +1,6 @@
 # Mini-Meco
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Flukasnehrke%2Fmini-meco.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Flukasnehrke%2Fmini-meco?ref=badge_shield)
+
 
 Mini-Meco is a web application that provides agile tooling for teams to enhance their productivity and streamline their workflow.
 
@@ -43,3 +45,7 @@ This command will start both the frontend and backend development servers concur
 
 
 By following these instructions, you can set up, develop, and run the Mini-Meco project efficiently.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Flukasnehrke%2Fmini-meco.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Flukasnehrke%2Fmini-meco?ref=badge_large)
